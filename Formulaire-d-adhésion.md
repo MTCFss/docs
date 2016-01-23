@@ -24,7 +24,7 @@ Centres d’intérêts : ………………………………………………
 Je certifie, avoir pris connaissance du _`règlement intérieur`_ du club.
 
 **Signature**
-&#x202b **Signature d'un responsable**
+&#x202b; **Signature d'un responsable**
 
 
 
