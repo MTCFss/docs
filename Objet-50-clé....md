@@ -1,6 +1,4 @@
-﻿### Type
-EMAIL
-### Subject
+﻿### Subject
 Demende des clés Dreamspark
 ### From
 Le président du club

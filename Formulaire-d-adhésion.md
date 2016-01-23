@@ -1,6 +1,4 @@
-﻿### Type
-FROM
-### Subject
+﻿### Subject
 FORMULAIRE D’ADHÉSION
 ### Body
 Par la présente, je désire adhérer au Club: **“Microsoft Tech-Club FS Sfax”**
@@ -26,7 +24,7 @@ Centres d’intérêts : ………………………………………………
 Je certifie, avoir pris connaissance du _`règlement intérieur`_ du club.
 
 **Signature**
- **Signature d'un responsable**
+&#x202b **Signature d'un responsable**
 
 
 
