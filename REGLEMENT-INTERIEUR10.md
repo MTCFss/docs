@@ -50,7 +50,7 @@ Le club vise à réaliser les objectifs suivants:
 1. Le président actuel ainsi que tous les membres actifs du club ont la possibilité de déposer leurs candidatures pour la présidence du club
 2. L’élection présidentielle du club passe par les étapes suivantes :
 	- Le président actuel invite les membres, lors d’une réunion statutaire au début du mois de Mai, à déposer leurs candidatures pour la présidence du club pour l’année suivante
-	- L’élection se passe au scrutin majoritaire lors de l’assemblée générale d’élection ([Article8][#Article 8: Réunions])
+	- L’élection se passe au scrutin majoritaire lors de l’assemblée générale d’élection ([Article8](#article-8-réunions))
 	- Le candidat à la présidence du club ainsi élu prend le titre de « président élu » et rejoint le comité du club à partir du 1er juin. Il débute son mandat de « président » au 1er octobre suivant
 3. Seul le président du club ou le fondateur du club a le droit de prendre la décision de nommer, changer ou licencier un membre du comité. Cette décision ne peut être confirmée qu’après l’accord de la majorité (>50%) du comité
 
