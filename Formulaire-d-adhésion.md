@@ -17,9 +17,9 @@ E-Mail : ………………………………………………………
 
 Centres d’intérêts : ………………………………………………
 
-[ ] Nouveau (Prix: 5dt)
+- [ ] Nouveau (Prix: 5dt)
 
-[ ] Renouvellement (Prix: 3dt)
+- [ ] Renouvellement (Prix: 3dt)
 
 Je certifie, avoir pris connaissance du _`règlement intérieur`_ du club.
 
