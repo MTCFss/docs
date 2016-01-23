@@ -2,7 +2,7 @@
 ### From: Le président du club
 ### To: Monsieur le Doyen de la Faculté des  Sciences de Sfax,
 ### Body
-Nous avons l'honneur de solliciter votre haute bienveillance afin de nous soutenir dans l’ouverture officielle du « Microsoft  Tech club FSS».
+Nous avons l'honneur de solliciter votre haute bienveillance afin de nous soutenir dans l’ouverture officielle du **«Microsoft  Tech club FSS»**.
 
 Pour une meilleure organisation de notre journée d’officialisation, nous devons fournir un financement de 375 000 pour pouvoir nous procurer ces biens ci-dessous :
 

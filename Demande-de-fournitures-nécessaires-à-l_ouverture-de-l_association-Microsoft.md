@@ -8,8 +8,7 @@ Monsieur le Doyen de la Faculté des  Sciences de Sfax,
 L’honneur est mienne de venir très respectueusement auprès de votre haute bienveillance bénéficier de votre générosité et de votre accord à l’acquisition de quelques matériels pour l’ouverture officielle du « Microsoft  Tech club FSS».
 
 Le club MTCFss dont vous avez certainement connaissance se voit dans l’obligation d’abuser du votre grandeur d’âme. Dans le but d’une meilleure organisation de notre journée d’officialisation nous vous prions de nous procurer ces biens ci-dessous :
-Badges
-
+- Badges
 - Tenus : 10 chemises
 - 2 Vidéoprojecteurs
 - Les amphis : un amphi pour le samedi
