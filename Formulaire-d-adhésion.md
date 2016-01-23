@@ -23,15 +23,24 @@ Centres d’intérêts : ………………………………………………
 
 Je certifie, avoir pris connaissance du _`règlement intérieur`_ du club.
 
-**Signature**
-&#x202b; **Signature d'un responsable**
+**Signature** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Signature d'un responsable**
 
+&nbsp;
 
+&nbsp;
 
-Sfax le .... / .... / .......
+&nbsp;
+
+&nbsp;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sfax le .... / .... / .......
 
 _Le club s’engage à protéger et à respecter la vie privée ainsi que la confidentialité de ses données personnelles qui lui ont été confiées._
 
+&nbsp;
+
 Copyright © 2014 Microsoft Tech-Club, tous droits réservés
+
 Faculté des sciences de Sfax route de la sokra km 3.5 ,3000 Sfax
+
 E-Mail : mtcfss@outlook.com
