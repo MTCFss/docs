@@ -3,7 +3,7 @@
 Madame, Monsieur,
 Notre club Microsoft Tech Club FSS, qui a pour objectif, d’améliorer davantage le savoir des étudiants dans le domaine des NTIC, a l’honneur de réaliser ces événements ci-dessous :
 
- Evénements | Date | Description
+ Événements | Date | Description
  ---------- | ---- | -----------
  ………………… | …/…/…… | …………………………………
  ………………… | …/…/…… | …………………………………
