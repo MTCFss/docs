@@ -1,8 +1,5 @@
-﻿### Subject
-Demande de sponsoring.
-### From
-Le président du club
-### Body
+﻿#### Subject: Demande de sponsoring.
+#### From: Le président du club
 Madame, Monsieur,
 
 Notre association, qui a pour objectif, d’améliorer davantage le savoir des étudiants dans le domaine des NTIC, organise sa journée d’officialisation, le samedi 08 Mars 2014 à la FSS.

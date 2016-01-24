@@ -1,6 +1,4 @@
-﻿### Subject
-Contrat d'Adhésion Au Microsoft Tech Club FSS
-### Body
+﻿#### Subject: Contrat d'Adhésion Au Microsoft Tech Club FSS
 Nous sommes par la présente les membres du comité MTCFSS, qui se passionnent à l’ensemble des activités informatique de la commune Microsoft, jurent de respecter tous les articles inclues au sein du règlement intérieur du club et d’assumer l’entière responsabilité d’entreprendre les tâches qui lui incombent.
 
 Les membres officiels du club:

@@ -1,6 +1,4 @@
-﻿### Subject
-FORMULAIRE D’ADHÉSION
-### Body
+﻿#### Subject: FORMULAIRE D’ADHÉSION
 Par la présente, je désire adhérer au Club: **“Microsoft Tech-Club FS Sfax”**
 
 Nom & Prénom : ………………………………………………
@@ -41,6 +39,6 @@ _Le club s’engage à protéger et à respecter la vie privée ainsi que la con
 
 Copyright © 2014 Microsoft Tech-Club, tous droits réservés
 
-Faculté des sciences de Sfax route de la sokra km 3.5 ,3000 Sfax
+Faculté des sciences de Sfax route de la Sokra km 3.5 ,3000 Sfax
 
 E-Mail : mtcfss@outlook.com

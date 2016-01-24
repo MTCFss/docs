@@ -1,4 +1,4 @@
-﻿REGLEMENT INTERIEUR
+﻿RÈGLEMENT INTÉRIEUR
 ===================
 L'adhésion au club "Microsoft Tech-Club" de la Faculté des sciences de Sfax entraîne automatiquement l'acceptation sans réserve du présent règlement intérieur.
 
@@ -9,7 +9,7 @@ Le club "Microsoft Tech-Club" est un club informatique fondé en 08/03/2014 et l
 Le club vise à réaliser les objectifs suivants:
 - Rencontrer et échanger des idées entre les étudiants qui souhaitent améliorer davantage leurs savoirs dans le domaine de l’informatique et des nouvelles technologies
 - Promouvoir, dans l’intérêt de ses membres, l’utilisation des outils et des technologies de développement fournis par Microsoft librement tout en innovant sans limites
-- Participer aux grands évènements Microsoft tout au long de l'année, afin de bénéficier des  expériences des intervenants professionnels
+- Participer aux grands évènements Microsoft tout au long de l'année, afin de bénéficier des expériences des intervenants professionnels
 - Essayer de profiter d'un libre examen de certification Microsoft
 - Possibilité d’accéder à des stages chez les entreprises des partenaires du club et de Microsoft
 - Enrichissement du CV par une activité sociale, associative, et culturelle
@@ -20,7 +20,7 @@ Le club vise à réaliser les objectifs suivants:
 
 ### Article 3: Droit d’adhésion et cotisation
 1. L’inscription à ce club est ouverte à tous les étudiants à condition que:
-	- L’inscrit certifie qu’il a bien pris connaissance du règlement intérieur du club
+	- L’inscrit certifie qu'il a bien pris connaissance du règlement intérieur du club
 	- L’inscrit paye le montant de cotisation annuelle
 2. La cotisation annuelle est fixée chaque année en mois de septembre
 3. Tout membre ne payant pas la cotisation annuelle totale dans un délai de deux semaines après son inscription sera automatiquement refusé
@@ -42,7 +42,7 @@ Le club vise à réaliser les objectifs suivants:
 	- **Secrétaire général:** Il tient à jour la liste des membres ; maintient l’archive et le registre des présences aux réunions et en rédige les procès-verbaux
 	- **Trésorier:** Il est le dépositaire des fonds du club, tient la comptabilité du club. À chaque réunion, il présente un rapport sur la situation financière du club, tient les documents comptables à la disposition des membres de comité, et transmet à son successeur ou au président les comptes et biens du club en sa possession
 	- **Coordinateur:** Il veille à informer les membres de toutes les activités et envoie les convocations aux réunions du club, du comité et des commissions.
-	- **Infographiste:** l'infographiste est celui s'en charge de la création et la manipulation des images numériques. il s'occupera de tout se concerne les traitements de textes et designs.
+	- **Infographiste:** l'infographiste est celui s'en charge de la création et la manipulation des images numériques. Il s'occupera de tout se concerne les traitements de textes et designs.
 	- **Responsable Ressources Humaines:** Il gère les inscriptions, le suivi et le contrôle des fiches membre. Il prépare les commissions et les réunions, analyse et évalue les membres du comité. Il communique avec les nouveaux membres et les informe à propos des tâches et des objectifs du club.
 	- **Responsable Relations Extérieures:** Il contribue par l’organisation et le suivi de la communication commerciale et institutionnelle. Il veille à protéger et à soutenir l’image du club et à adapter des messages pertinents pour l’interlocuteur visé. Il définit la stratégie de partenariats et de sponsoring et développe un réseau de relations professionnelles (média, professionnels, associations, administration).
 
@@ -50,15 +50,15 @@ Le club vise à réaliser les objectifs suivants:
 1. Le président actuel ainsi que tous les membres actifs du club ont la possibilité de déposer leurs candidatures pour la présidence du club
 2. L’élection présidentielle du club passe par les étapes suivantes :
 	- Le président actuel invite les membres, lors d’une réunion statutaire au début du mois de Mai, à déposer leurs candidatures pour la présidence du club pour l’année suivante
-	- L’élection se passe au scrutin majoritaire lors de l’assemblée générale d’élection ([Article8](#article-8-réunions))
+	- L’élection se passe au scrutin majoritaire lors de l’assemblée générale d’élection ([Article 8](#article-8-réunions))
 	- Le candidat à la présidence du club ainsi élu prend le titre de « président élu » et rejoint le comité du club à partir du 1er juin. Il débute son mandat de « président » au 1er octobre suivant
-3. Seul le président du club ou le fondateur du club a le droit de prendre la décision de nommer, changer ou licencier un membre du comité. Cette décision ne peut être confirmée qu’après l’accord de la majorité (>50%) du comité
+3. Seul le président du club ou le fondateur du club a le droit de prendre la décision de nommer, changer ou licencier un membre du comité. Cette décision ne peut être confirmée qu'après l’accord de la majorité (>50%) du comité
 
 ### Article 6: Commissions
 1. Chaque commission a une mission bien définie, des objectifs précis et des plans d’action déterminés en début d’année. Le président élu doit être en mesure de présenter ses recommandations concernant les commissions durant son mandat, accompagnées d’objectifs et de plans d’action
 2. Le président désigne, avec l’accord du comité, les commissions permanentes suivantes :
-	- Evaluation : Cette commission composée par le fondateur du club et le responsable des ressources humaines, s’occupe du contrôle et de l’évaluation du rendement et de la discipline du comité. Cette commission aura le droit d’organiser une seule assemblée générale extraordinaire d’élection par an et d’éliminer des responsables de leurs tâches ou de les exclure définitivement du club
-	- Actions & manifestations : Cette commission planifie et monte des actions humanitaires, éducatives et professionnelles répondant aux besoins locaux de l’institut et de la région
+	- Evaluation: Cette commission composée par le fondateur du club et le responsable des ressources humaines, s’occupe du contrôle et de l’évaluation du rendement et de la discipline du comité. Cette commission aura le droit d’organiser une seule assemblée générale extraordinaire d’élection par an et d’éliminer des responsables de leurs tâches ou de les exclure définitivement du club
+	- Actions & manifestations: Cette commission planifie et monte des actions humanitaires, éducatives et professionnelles répondant aux besoins locaux de l’institut et de la région
 3. D’autres commissions permanentes seront nommées en fonction des besoins
 4. Le président est membre de droit de toutes les commissions et jouit des mêmes privilèges que tout autre membre
 5. Les attributions de chaque commission sont déterminées par ce règlement ou par le président ou le comité du club
@@ -76,7 +76,7 @@ Le club vise à réaliser les objectifs suivants:
 	- Actes de compromis honteux pour la réputation de l'institution et du club
 	- Non-respect des statuts et du règlement intérieur
 	- Utilisation des propriétés ou des biens du club pour son propre intérêt
-	- Comportement incorrect, irrespectueux, déloyal envers autrui, ou non-conforme avec l’éthique du club
+	- Comportement incorrect, irrespectueux, déloyal envers autrui, ou non conforme avec l’éthique du club
 3. Un membre peut être éliminé de la responsabilité ou bien exclu définitivement du club après deux avertissements
 4. L’exclusion doit être prononcée par les membres du conseil d’administration à la moitié des voix plus une, à l’encontre du membre contre lequel une procédure d’exclusion est engagée
 
@@ -91,7 +91,7 @@ Le club vise à réaliser les objectifs suivants:
 	2. Présentation des invités
 	3. Correspondance et communiqués
 	4. Rapports des commissions
-	5. Questions  en suspens
+	5. Questions en suspens
 	6. Questions diverses
 	7. Exposé ou autre programme
 	8. Clôture
