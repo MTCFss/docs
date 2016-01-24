@@ -9,7 +9,7 @@ Le club "Microsoft Tech-Club" est un club informatique fondé en 08/03/2014 et l
 Le club vise à réaliser les objectifs suivants:
 - Rencontrer et échanger des idées entre les étudiants qui souhaitent améliorer davantage leurs savoirs dans le domaine de l’informatique et des nouvelles technologies
 - Promouvoir, dans l’intérêt de ses membres, l’utilisation des outils et des technologies de développement fournis par Microsoft librement tout en innovant sans limites
-- Participer aux grands évènements Microsoft tout au long de l'année, afin de bénéficier des  expériences des intervenants professionnels
+- Participer aux grands évènements Microsoft tout au long de l'année, afin de bénéficier des expériences des intervenants professionnels
 - Essayer de profiter d'un libre examen de certification Microsoft
 - Possibilité d’accéder à des stages chez les entreprises des partenaires du club et de Microsoft
 - Enrichissement du CV par une activité sociale, associative, et culturelle
@@ -91,7 +91,7 @@ Le club vise à réaliser les objectifs suivants:
 	2. Présentation des invités
 	3. Correspondance et communiqués
 	4. Rapports des commissions
-	5. Questions  en suspens
+	5. Questions en suspens
 	6. Questions diverses
 	7. Exposé ou autre programme
 	8. Clôture
