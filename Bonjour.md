@@ -1,8 +1,5 @@
-﻿### Subject
-Bienvenue au MTCFSS
-### From
-Le président du club
-### Body
+﻿#### Subject: Bienvenue au MTCFSS
+#### From: Le président du club
 Bonjour,
 
 Merci pour votre inscription et bienvenue dans Microsoft Tech Club FS-Sfax!

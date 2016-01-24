@@ -1,6 +1,4 @@
-﻿### Subject
-demande de statut juridique
-### Body
+﻿#### Subject: demande de statut juridique
 Salut Abir,
 
 Je suis le président du Club Microsoft de la faculté des sciences de Sfax. Nous voudrions officialiser notre club à la FSS, mais notre administration nous demande le statut juridique pour utiliser le label de **«Microsoft»**.
