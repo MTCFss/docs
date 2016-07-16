@@ -1,9 +1,9 @@
 ﻿RÈGLEMENT INTÉRIEUR
 ===================
-L'adhésion au club "Microsoft Tech-Club" de la Faculté des sciences de Sfax entraîne automatiquement l'acceptation sans réserve du présent règlement intérieur.
+L'adhésion au club "Microsoft Tech Club" de la Faculté des sciences de Sfax entraîne automatiquement l'acceptation sans réserve du présent règlement intérieur.
 
 ### Article 1: Nom – Date de Création – Siège
-Le club "Microsoft Tech-Club" est un club informatique fondé en 08/03/2014 et localisé dans la Faculté des sciences de Sfax (FSS - Sfax)
+Le club "Microsoft Tech Club" est un club informatique fondé en 08/03/2014 et localisé dans la Faculté des sciences de Sfax (FSS)
 
 ### Article 2: Objectifs
 Le club vise à réaliser les objectifs suivants:
