@@ -78,7 +78,12 @@ table tbody tr:nth-child(1) td:nth-child(3) {
 table tbody tr:nth-child(1) td:nth-child(4) {
     background: #4f982d;
 }
-
+table tbody tr:nth-child(1) {
+    font-size: 200px;
+    font-weight: 600;
+    letter-spacing: 10px;
+    text-shadow: 10px 10px 5px rgba(0,0,0,0.4);
+}
 table tbody tr:nth-child(2) td:nth-child(1) {
     background: #466381;
     font-size: 450px;
