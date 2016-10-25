@@ -1,0 +1,112 @@
+html {
+    background: darkcyan;
+    text-align: center;
+    display: block;
+}
+
+body {
+    /* 6010×3894 x2 */
+    /* 2998×1947 x1 to get 3012x1947 screenshot */
+    /* Microsoft Presenter: 1004x649 */
+    background: white;
+    color: white;
+    width: 3012px;
+    height: 1948px;
+    box-sizing: padding-box;
+    /* center */
+    margin: auto auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    -webkit-transform: translate(-50%, -50%) scale(0.11);
+    transform: translate(-50%, -50%) scale(0.24);
+    /*other*/
+    overflow: hidden;
+    text-overflow: hidden;
+    font-family: "Source Code Pro";
+    text-rendering: optimizelegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    box-sizing: border-box;
+    border-bottom-style: solid;
+}
+
+body a,
+body a:hover,
+body a:active {
+    text-decoration: none;
+    outline: none;
+    color: inherit;
+}
+
+body ul {
+    padding-left: 0;
+    list-style: inside;
+    list-style-type: none;
+    font-weight: bold;
+}
+table {
+    border: solid 80px white;
+    border-spacing: 0;
+    border-collapse:  collapse;
+}
+table, tbody {
+    height: 100%;
+    width: 100%;
+}
+table tbody tr {
+    width: 100%;
+    height: 29%;
+}
+table tbody tr:nth-child(2) {
+    height: 42%;
+}
+table tbody tr td {
+    width: 25%;
+    border: solid 40px white;
+}
+table tbody tr:nth-child(1) td:nth-child(1) {
+    background: #e24630;
+}
+table tbody tr:nth-child(1) td:nth-child(2) {
+    background: #f9a119;
+}
+table tbody tr:nth-child(1) td:nth-child(3) {
+    background: #2c5fbb;
+}
+table tbody tr:nth-child(1) td:nth-child(4) {
+    background: #4f982d;
+}
+
+table tbody tr:nth-child(2) td:nth-child(1) {
+    background: #466381;
+    font-size: 450px;
+    text-shadow: 50px 50px 40px rgba(0,0,0,0.5);
+    text-align: center;
+}
+table tbody tr:nth-child(2) td:nth-child(2) {
+    background: #3394d8;
+    font-size: 110px;
+    text-align: left;
+    padding: 0 80px;
+    line-height: 2;
+}
+tatable tbody tr:nth-child(2) td:nth-child(2) li:first-child {
+    
+    
+}
+table tbody tr:nth-child(3) td:nth-child(1) {
+    background: #8b43a9;
+    font-size: 100px;
+    text-align: left;
+}
+table tbody tr:nth-child(3) td:nth-child(1) ul {
+    list-style: none;
+    text-align: center;
+}
+table tbody tr:nth-child(3) td:nth-child(1) ul li {
+    display: inline-block;
+    padding: 0 90px;
+    line-height: 1.4;
+}
