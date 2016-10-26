@@ -90,6 +90,21 @@ table tbody tr:nth-child(1) {
     letter-spacing: 10px;
     text-shadow: 10px 10px 5px rgba(0,0,0,0.4);
 }
+
+/* 1st ligne 4 cols content */
+table tbody tr:nth-child(1) td:nth-child(1):after {
+    content: ""; /* "();" */
+}
+table tbody tr:nth-child(1) td:nth-child(2):after {
+    content: ""; /* "{.}" */
+}
+table tbody tr:nth-child(1) td:nth-child(3):after {
+    content: ""; /* "</>" */
+}
+table tbody tr:nth-child(1) td:nth-child(4):after {
+    content: ""; /* "//." */
+}
+
 /* card 2nd ligne, 1st col: code logo */
 table tbody tr:nth-child(2) td:nth-child(1) {
     background: #466381;
@@ -98,7 +113,7 @@ table tbody tr:nth-child(2) td:nth-child(1) {
     text-align: center;
     transform: blur(4000%);
 }
-/* card 1st ligne, 2nd col: MTCFSS text */
+/* card 2nd ligne, 2nd col: MTCFSS text */
 table tbody tr:nth-child(2) td:nth-child(2) {
     background: #3394d8;
     font-size: 100px;
