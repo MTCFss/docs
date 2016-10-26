@@ -1,9 +1,10 @@
+/* Container style */
 html {
     background: darkcyan;
     text-align: center;
     display: block;
 }
-
+/* card body */
 body {
     /* 6010×3894 x2 */
     /* 2998×1947 x1 to get 3012x1947 screenshot */
@@ -46,6 +47,7 @@ body ul {
     list-style-type: none;
     font-weight: bold;
 }
+
 table {
     border: solid 80px white;
     border-spacing: 0;
@@ -59,6 +61,8 @@ table tbody tr {
     width: 100%;
     height: 29%;
 }
+
+/* card second ligne */
 table tbody tr:nth-child(2) {
     height: 42%;
 }
@@ -66,6 +70,7 @@ table tbody tr td {
     width: 25%;
     border: solid 40px white;
 }
+/* card 1st ligne, 1st col */
 table tbody tr:nth-child(1) td:nth-child(1) {
     background: #e24630;
 }
@@ -78,12 +83,14 @@ table tbody tr:nth-child(1) td:nth-child(3) {
 table tbody tr:nth-child(1) td:nth-child(4) {
     background: #4f982d;
 }
+/* card 1st ligne text content style */
 table tbody tr:nth-child(1) {
     font-size: 200px;
     font-weight: 600;
     letter-spacing: 10px;
     text-shadow: 10px 10px 5px rgba(0,0,0,0.4);
 }
+/* card 2nd ligne, 1st col: code logo */
 table tbody tr:nth-child(2) td:nth-child(1) {
     background: #466381;
     font-size: 450px;
@@ -91,6 +98,7 @@ table tbody tr:nth-child(2) td:nth-child(1) {
     text-align: center;
     transform: blur(4000%);
 }
+/* card 1st ligne, 2nd col: MTCFSS text */
 table tbody tr:nth-child(2) td:nth-child(2) {
     background: #3394d8;
     font-size: 100px;
@@ -98,10 +106,12 @@ table tbody tr:nth-child(2) td:nth-child(2) {
     line-height: 1.7;
     text-indent: 120px;
 }
+/* Microsoft Tech Club text style */
 table tbody tr:nth-child(2) td:nth-child(2) li:first-child {
     font-size: 165px;
     font-weight: 800;
 }
+/* card 3rd ligne: contact info style */
 table tbody tr:nth-child(3) td:nth-child(1) {
     background: #8b43a9;
     font-size: 100px;
@@ -113,7 +123,6 @@ table tbody tr:nth-child(3) td:nth-child(1) div {
 }
 table tbody tr:nth-child(3) td:nth-child(1) div span {
     display: inline-block;
-    /*padding: 0 90px;*/
     line-height: 1.4;
     font-weight: 700;
 }
@@ -123,6 +132,7 @@ table tbody tr:nth-child(3) td:nth-child(1) div span:first-child {
 table tbody tr:nth-child(3) td:nth-child(1) div span:last-child {
     float: right;
 }
+/* contact info logos style */
 table tbody tr:nth-child(3) td:nth-child(1) div i.fa {
     width: 100px;
     text-align: center;
