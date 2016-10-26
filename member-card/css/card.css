@@ -107,12 +107,24 @@ table tbody tr:nth-child(3) td:nth-child(1) {
     font-size: 100px;
     text-align: left;
 }
-table tbody tr:nth-child(3) td:nth-child(1) ul {
-    list-style: none;
+table tbody tr:nth-child(3) td:nth-child(1) div {
     text-align: center;
+    padding: 0 120px;
 }
-table tbody tr:nth-child(3) td:nth-child(1) ul li {
+table tbody tr:nth-child(3) td:nth-child(1) div span {
     display: inline-block;
-    padding: 0 90px;
+    /*padding: 0 90px;*/
     line-height: 1.4;
+    font-weight: 700;
+}
+table tbody tr:nth-child(3) td:nth-child(1) div span:first-child {
+    float: left;
+}
+table tbody tr:nth-child(3) td:nth-child(1) div span:last-child {
+    float: right;
+}
+table tbody tr:nth-child(3) td:nth-child(1) div i.fa {
+    width: 100px;
+    text-align: center;
+    display: inline-block;
 }
