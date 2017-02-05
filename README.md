@@ -6,7 +6,9 @@ Official archive of templates, logos.
 If your looking for our events pictures, please find them at
 [this link](https://drive.google.com/drive/folders/0B_eTEybT5w_6dHROQzBreDRlVU0?usp=sharing).
 If you took few pictures on our events, we would be happy to add them to our
-our archive if you send them to our email fssotc@gmail.com.
+our archive if you upload them at
+[this link](https://script.google.com/macros/s/AKfycbxp-M1So2kZsxMobxhILTOc5SuuULt7jcRfNyeC_TBLTVLTLes/exec)
+or you send them to our email fssotc@gmail.com.
 
 Media files have beed moved to
 [Google Drive](https://drive.google.com/drive/folders/0B_eTEybT5w_6clRrejJCSnNtSTg?usp=sharing).
