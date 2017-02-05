@@ -12,7 +12,7 @@ Media files have beed moved to
 [Google Drive](https://drive.google.com/drive/folders/0B_eTEybT5w_6clRrejJCSnNtSTg?usp=sharing).
 
 
-# License
+### License
 
 Copyright (C) 2015-2017 - FSS Open Tech Club.
 
